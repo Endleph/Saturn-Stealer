@@ -10,6 +10,6 @@ This tool create a http server an use localtunnel for upload the sever (node js 
 
 #Preview
 
-![Picture]https://media.discordapp.net/attachments/891019730268323851/954454258269429840/Capture.png?width=1152&height=538
+![Picture](https://media.discordapp.net/attachments/891019730268323851/954454258269429840/Capture.png?width=1152&height=538)
 
-![Picture]https://media.discordapp.net/attachments/891019730268323851/954454257980047450/Capture584.PNG?width=1148&height=539
+![Picture](https://media.discordapp.net/attachments/891019730268323851/954454257980047450/Capture584.PNG?width=1148&height=539)
