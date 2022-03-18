@@ -11,9 +11,9 @@ using System.Text;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 
-namespace AnzenStealEr
+namespace Saturn
 {
-    internal static class anzen
+    internal static class saturn
     {
         [DllImport("user32.dll")]
         static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
