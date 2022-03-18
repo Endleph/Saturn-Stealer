@@ -1,6 +1,5 @@
 # Saturn-Stealer
 ⚠️ It is strictly forbidden to use this software for illegal purposes. This software was coded for educational purposes.
-
 The developer is not responsible for your actions ⚠️
 
 Saturn Stealer is a tool for create a server and the create malware, themalware is discord token straler/grabber.
