@@ -8,7 +8,7 @@ This tool create a http server an use localtunnel for upload the sever (node js 
 3. Copy the url write in the console and past that on your browser
 4. Change username and password in config.json and Login to access at the panel
 
-#Preview
+# Preview
 
 ![Picture](https://media.discordapp.net/attachments/891019730268323851/954454258269429840/Capture.png?width=1152&height=538)
 
