@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <center>
-    <br><br><br><br><br><br><br><br><br>
     <form action="/login" method="post">
         <input type="text" name="user" placeholder="Username" /><br><br>
         <input type="password" name="pass" placeholder="Password" /><br><br>
@@ -19,6 +18,11 @@
             padding: 20px;
             width: 420px;
             box-sizing: border-box;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%);
         }
 
         .submit{
